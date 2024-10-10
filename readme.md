@@ -2,7 +2,9 @@
 ```markdown
 # E-commerce Platform
 
-Este projeto é um e-commerce desenvolvido com tecnologias modernas e focado em  escalabilidade e manutenibilidade. O objetivo foi criar uma plataforma de vendas eficiente com uma experiência de usuário otimizada.
+Este projeto é um e-commerce desenvolvido com tecnologias modernas e focado em  escalabilidade e
+manutenibilidade. O objetivo foi criar uma plataforma de vendas eficiente com uma experiência
+de usuário otimizada.
 
 ## Tecnologias Utilizadas
 
@@ -12,7 +14,7 @@ Este projeto é um e-commerce desenvolvido com tecnologias modernas e focado em 
   - **JavaScript**: Interatividade no frontend.
   - **TypeScript**: Tipagem estática para garantir a robustez do código.
   - **React**: Biblioteca JavaScript para criar interfaces dinâmicas e componentizadas.
-  - **Next.js**: Framework React com renderização no lado do servidor (SSR) e otimizações de performance.
+  - **Next.js**: Framework React com renderização no lado do servidor (SSR).
   - **Tailwind CSS**: Framework utilitário para estilização rápida e responsiva.
 
 - **Backend**:
@@ -21,7 +23,8 @@ Este projeto é um e-commerce desenvolvido com tecnologias modernas e focado em 
   - **PostgreSQL**: Banco de dados relacional utilizado para armazenar os dados da aplicação.
 
 - **Monorepo**:
-  - **Turborepo**: Ferramenta para gerenciamento de monorepo, facilitando o desenvolvimento de múltiplos pacotes e projetos de forma integrada.
+  - **Turborepo**: Ferramenta para gerenciamento de monorepo, facilitando o desenvolvimento de
+     múltiplos pacotes e projetos de forma integrada.
 
 ## Como Executar o Projeto
 
