@@ -3,7 +3,8 @@
 # E-commerce Platform
 
 Este projeto é um e-commerce desenvolvido com tecnologias modernas e focado em  escalabilidade e
-manutenibilidade. O objetivo foi criar uma plataforma de vendas eficiente com uma experiência de usuário otimizada.
+manutenibilidade. O objetivo foi criar uma plataforma de vendas eficiente com uma experiência
+de usuário otimizada.
 
 ## Tecnologias Utilizadas
 
