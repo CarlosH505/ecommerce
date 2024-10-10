@@ -2,8 +2,8 @@
 ```markdown
 # E-commerce Platform
 
-Este projeto é um e-commerce desenvolvido com tecnologias modernas e focado em  escalabilidade e manutenibilidade.
-O objetivo foi criar uma plataforma de vendas eficiente com uma experiência de usuário otimizada.
+Este projeto é um e-commerce desenvolvido com tecnologias modernas e focado em  escalabilidade e
+manutenibilidade. O objetivo foi criar uma plataforma de vendas eficiente com uma experiência de usuário otimizada.
 
 ## Tecnologias Utilizadas
 
@@ -13,7 +13,7 @@ O objetivo foi criar uma plataforma de vendas eficiente com uma experiência de 
   - **JavaScript**: Interatividade no frontend.
   - **TypeScript**: Tipagem estática para garantir a robustez do código.
   - **React**: Biblioteca JavaScript para criar interfaces dinâmicas e componentizadas.
-  - **Next.js**: Framework React com renderização no lado do servidor (SSR) e otimizações de performance.
+  - **Next.js**: Framework React com renderização no lado do servidor (SSR).
   - **Tailwind CSS**: Framework utilitário para estilização rápida e responsiva.
 
 - **Backend**:
